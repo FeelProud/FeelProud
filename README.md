@@ -1,22 +1,15 @@
 # 👋 Hi there, I'm Marc!
 
-_French infosec student and DevSecOps engineer._
-
-_Passionate about cybersecurity and exploring new technologies._
-
-_Open to new job opportunities!_
-  
-### 🌐 Connect with me
-
+[![feelproud.me](https://img.shields.io/badge/feelproud.me-Visit-ff69b4)](https://feelproud.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/feelproud_sec?style=social)](https://twitter.com/feelproud_sec)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marc-le-pech/)](https://www.linkedin.com/in/marc-le-pech/)
 &nbsp;
 ![Discord](https://dcbadge.vercel.app/api/shield/293053739806359562)
-  
-### 🌟 Personal website
-  
-[![feelproud.me](https://img.shields.io/badge/feelproud.me-Visit-ff69b4)](https://feelproud.me)
+
+_French infosec student and DevSecOps engineer. Passionate about cybersecurity and exploring new technologies._
+
+_Open to new job opportunities!_
   
 <hr>
 
