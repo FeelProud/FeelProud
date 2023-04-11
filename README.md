@@ -7,7 +7,7 @@
 &nbsp;
 ![Discord](https://dcbadge.vercel.app/api/shield/293053739806359562)
 
-_French infosec student and DevSecOps engineer. Passionate about cybersecurity and exploring new technologies._
+**French infosec student and DevSecOps engineer. Passionate about cybersecurity and exploring new technologies.**
 
 _Open to new job opportunities!_
   
